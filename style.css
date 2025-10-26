@@ -149,7 +149,7 @@ li a{
   color: white;
   font-size: 18px;
   font-weight: bold;
-  margin-right: 25px;
+  margin-right: 200px;
   text-decoration: none;
 }
 
@@ -159,4 +159,18 @@ li a:hover{
 
 li a:active{
   color: #dddddd63;
+}
+
+
+/* Styling the home page*/
+.home-content{
+
+  text-align: center;
+  margin-top: 100px;
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+
+ 
+
 }
