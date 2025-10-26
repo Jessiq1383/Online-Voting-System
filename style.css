@@ -175,3 +175,39 @@ li a:active{
  
 
 }
+/* Styling the candidates page */
+
+.wrapper {
+  margin-top: 10%;
+}
+.wrapper h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold 700;
+  margin-bottom: 60px;
+  text-align: center;
+ 
+
+}
+.candidate{
+  display: flex;
+  text-align: center;
+  width: auto;
+   justify-content: center;
+}
+
+.candidate .candidate-profile{
+  background-color: #ffffffd8;
+  margin: 5px;
+  margin-bottom: 50px;
+  width: 300px;
+  padding: 20px;
+  line-height: 20px;
+  color: #41017e;
+  position: relative;
+}
+
+.candidate .candidate-profile h3{
+font-weight: 700;
+font-size: 30px;
+margin-bottom: 20px;
+}
