@@ -88,6 +88,9 @@ color: #999;
   border-radius: 30px;
   cursor: pointer;
   transition: .3s;
+  color: #fff;
+  text-decoration: none;
+  font-size: bold;
   
   }
 
@@ -170,12 +173,13 @@ li a:active{
   margin: 300px;
   justify-content: center;
   align-items: center;
+  text-align: center;
   display: inline-block;
 
  
 
 }
-/* Styling the candidates page */
+/* Styling the candidates page and voting page */
 
 .wrapper {
   margin-top: 10%;
@@ -212,4 +216,4 @@ font-size: 30px;
 margin-bottom: 20px;
 }
 
-/* Styling the Voting Table */
+
