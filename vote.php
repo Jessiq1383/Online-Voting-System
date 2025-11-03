@@ -30,7 +30,7 @@
 <div class="candidate-profile">
   <h3>Paul Doe</h3>
   <p class="Party">Republican</p>
-   <a href="thankyou.html">
+   <a href="thankyou.php">
     <div class="input-submit">
       <button class="submit-btn" id="submit"></button>
   <label for="submit" class="submit-label">Sign In</label>
@@ -42,7 +42,7 @@
 <div class="candidate-profile">
   <h3>Joe Biden </h3>
   <p class="Party">Democrat</p>
-   <a href="thankyou.html">  
+   <a href="thankyou.php">  
   <div class="input-submit">
   <button class="submit-btn" id="submit"></button>
   <label for="submit" class="submit-label">Sign In</label>
@@ -53,7 +53,7 @@
 <div class="candidate-profile">
   <h3>Kane</h3>
   <p class="Party">Green Party</p>
- <a href="thankyou.html">
+ <a href="thankyou.php">
   <div class="input-submit">
   <button class="submit-btn" id="submit"></button>
   <label for="submit" class="submit-label">Sign In</label>
@@ -65,7 +65,7 @@
 <div class="candidate-profile">
   <h3>Bowser</h3>
   <p class="Party"> Goomba Kingdom</p>
-  <a href="thankyou.html">
+  <a href="thankyou.php">
   <div class="input-submit">
   <button class="submit-btn" id="submit"></button>
   <label for="submit" class="submit-label">Sign In</label>
