@@ -11,10 +11,10 @@
   <div class="navdiv">
   <div class="logo">Online Voting System</div>
    <ul>
-     <li><a href="home.html">Home</a></li>
-     <li><a href="candidates.html">Check out the Candidates!</a></li>
-     <li><a href="vote.html">Vote here!</a></li>
-     <button class="login-btn"><a href="Login.html">Log out</a></button>
+     <li><a href="home.php">Home</a></li>
+     <li><a href="candidates.php">Check out the Candidates!</a></li>
+     <li><a href="vote.php">Vote here!</a></li>
+     <button class="login-btn"><a href="Login.php">Log out</a></button>
    </ul>
 </nav>
 </div>
