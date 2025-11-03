@@ -24,7 +24,7 @@
   <label for="submit" class="submit-label">Sign In</label>
 </div>
 <div class="register-link">
-  <p>Don't have an account? <a href="Register.html">Register here!</a></p>
+  <p>Don't have an account? <a href="Register.php">Register here!</a></p>
   </div>
  </div>
  </div>
