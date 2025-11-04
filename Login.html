@@ -6,28 +6,34 @@
   <title>Login to Vote!</title>
 </head>
 <body>
-  <!-- A div to center everything in the login box-->
+  
 <div class=" center-box">
   <div class="login-box">
   <div class="login-header">
     <header>Login to Vote!</header>
   </div>
-<!--The text to input your email and password-->
- <div class="input-box">
-<input type = "text" class="input-field" placeholder="Email" autocomplete="off" required>
- </div>
- <div class="input-box">
-<input type = "password" class="input-field" placeholder="Password" autocomplete="off" required>
 
-<div class="input-submit">
-  <button class="submit-btn" id="submit"></button>
-  <label for="submit" class="submit-label">Sign In</label>
-</div>
+  <form action="auth_login.php" method="post">
+    <div class="input-box">
+     <input type="text" name="email" class="input-field" placeholder="Email" autocomplete="off" required>
+     </div>
+
+     <div class="input-box">
+     <input type="password" name="password" class="input-field" placeholder="Password" autocomplete="off" required>
+     </div>
+
+     <div class="input-submit">
+     <button class="submit-btn" id="submit" type="submit"></button>
+      <label for="submit" class="submit-label">Sign In</label>
+        </div>
+ </form>
+
+
 <div class="register-link">
-  <p>Don't have an account? <a href="Register.php">Register here!</a></p>
-  </div>
+  <p>Don't have an account? <a href="Register.html">Register here!</a></p>
  </div>
  </div>
 </div>
 </body>
 </html>
+
